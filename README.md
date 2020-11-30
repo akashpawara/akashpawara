@@ -21,4 +21,4 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> <img src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en" alt="akashpawara" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> <img src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
