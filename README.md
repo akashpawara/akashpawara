@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Freelance Projects**
 
-- 👨‍💻 All of my projects are available at [https://akashpawara-portfolio.netlify.app/](https://akashpawara.com/)
+- 👨‍💻 All of my projects are available at [https://akashpawara.com/](https://akashpawara.com/)
 
 - 📝 I regulary write articles on [https://medium.com/@akashpawara](https://medium.com/@akashpawara)
 
