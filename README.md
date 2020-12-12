@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Freelance Projects**
 
-- 👨‍💻 All of my projects are available at [https://akashpawara-portfolio.netlify.app/](https://akashpawara-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akashpawara.com/](https://akashpawara.com/)
 
 - 📝 I regulary write articles on [https://medium.com/@akashpawara](https://medium.com/@akashpawara)
 
@@ -19,6 +19,7 @@
 
 ### Medium Artciles 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Chrome Extension to Spam on WhatsApp using Vanilla JavaScript](https://medium.com/swlh/how-to-build-a-chrome-extension-to-spam-on-whatsapp-using-vanilla-javascript-1c00faa6a2f7?source=rss-43799ec6b23------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> <img src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
