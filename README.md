@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://akashpawara.github.io/resume/](https://akashpawara.github.io/resume/)
 
-### Blogs posts
+### Medium Artciles 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
