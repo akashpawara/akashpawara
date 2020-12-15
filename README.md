@@ -1,5 +1,5 @@
 <h1 align="center">Heya! 👋, I'm Akash</h1>
-<h3 align="center">A recent Engineering gradtuate</h3>
+<h3 align="center">A recent Engineering gradtuate | Freelancer</h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawara) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashpawara) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_pawara_/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917506021898) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akashpawara) 
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawara&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawara" /> </p>
 
-- 🔭 I’m currently working on **Freelance Projects**
+- 🔭 I’m currently working on Collaborative web based 2d motion designing tool and an Ed-Tech solution.
 
-- 👨‍💻 All of my projects are available at [https://akashpawara.com/](https://akashpawara.com/)
+- 👨‍💻 Some of my projects are available at [https://akashpawara.com/](https://akashpawara.com/)
 
-- 📝 I regulary write articles on [https://medium.com/@akashpawara](https://medium.com/@akashpawara)
+- 📝 Sometimes I write articles on [https://medium.com/@akashpawara](https://medium.com/@akashpawara)
 
 - 📫 How to reach me **akashpawara29@gmail.com**
 
