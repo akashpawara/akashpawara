@@ -19,6 +19,7 @@
 
 ### Medium Artciles 
 <!-- BLOG-POST-LIST:START -->
+- [Are we alone in this universe?](https://akashpawara.medium.com/are-we-alone-in-this-universe-de64e67f434?source=rss-43799ec6b23------2)
 - [How to Build a Chrome Extension to Spam on WhatsApp using Vanilla JavaScript](https://medium.com/swlh/how-to-build-a-chrome-extension-to-spam-on-whatsapp-using-vanilla-javascript-1c00faa6a2f7?source=rss-43799ec6b23------2)
 <!-- BLOG-POST-LIST:END -->
 
