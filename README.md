@@ -28,11 +28,11 @@
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mk6jkqi2tspn52bvn7hgq7w3i)
 
 <details>
-  <summury> ⚡ Languages </summury>
+  <summary> ⚡ Languages </summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> 
 </details>
  
 <details>
-  <summury> ⚡ Github status </summury>
+  <summary> ⚡ Github status </summuary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
 </details>
