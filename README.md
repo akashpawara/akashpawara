@@ -33,6 +33,6 @@
 </details>
  
 <details>
-  <summary> ⚡ Github status </summuary>
+  <summary> ⚡ Github status </summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
 </details>
