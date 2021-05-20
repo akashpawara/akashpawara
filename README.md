@@ -27,4 +27,9 @@
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mk6jkqi2tspn52bvn7hgq7w3i)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> <img src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> 
+  
+<details>
+  <summury> ⚡ Github status </summury>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
+</details>
