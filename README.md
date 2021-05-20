@@ -25,7 +25,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mk6jkqi2tspn52bvn7hgq7w3i)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mk6jkqi2tspn52bvn7hgq7w3i)
 <br/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> <img src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
