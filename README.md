@@ -25,7 +25,8 @@
 
 ### Now Playing 🎧
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mk6jkqi2tspn52bvn7hgq7w3i)
+[![Spotify](https://akashpawara-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/mk6jkqi2tspn52bvn7hgq7w3i)
+<!-- ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mk6jkqi2tspn52bvn7hgq7w3i) -->
 
 <details>
   <summary> ⚡ Languages </summary>
