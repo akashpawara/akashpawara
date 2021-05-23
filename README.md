@@ -33,7 +33,7 @@ func GetBio() Bio {
 const weeb = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Go],
-  tools: [React, Node, Gatsby, Bootstrap, Prismic, Hugo],
+  tools: [React, Node, Gatsby, Vue, Bootstrap, Prismic, Hugo],
   architecture: ["microservices", "event-driven"],
   sites: {
                         Personal: "https://akashpawara.com",
