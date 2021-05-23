@@ -1,4 +1,4 @@
-<h1 align="center">Heya! 👋, I'm Akash</h1>
+<h1 align="center">< / hello ></h1>
 
 ```golang
 package main
@@ -30,7 +30,9 @@ func GetBio() Bio {
 
 <h2 align="center">You can reach me at :alien:</h2>
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawara) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashpawara) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_pawara_/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917506021898) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akashpawara)![Twitter Follow](https://img.shields.io/twitter/follow/akash_pawara_?logoColor=00adb5&style=for-the-badge)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawara) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashpawara) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_pawara_/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917506021898) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akashpawara)![Twitter Follow](https://img.shields.io/twitter/follow/akash_pawara_?logo=twitter&style=for-the-badge)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawara&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawara" /> </p>
 
 ### Medium Artciles 
 <!-- BLOG-POST-LIST:START -->
@@ -47,7 +49,7 @@ func GetBio() Bio {
   <summary> ⚡ Languages </summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashpawara&show_icons=true&locale=en&layout=compact&theme=dracula" alt="akashpawara" /> 
 </details>
- 
+
 <details>
   <summary> ⚡ Github status </summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akashpawara&show_icons=true&locale=en&theme=tokyonight" alt="akashpawara" /></p>
