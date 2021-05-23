@@ -32,8 +32,12 @@ func GetBio() Bio {
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawara) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashpawara) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_pawara_/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917506021898) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akashpawara)![Twitter Follow](https://img.shields.io/twitter/follow/akash_pawara_?logo=twitter&style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawara&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawara" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawara&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawara" /> </p> -->
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{akashpawara}/count.svg" alt="akashpawara :: Visitor's Count" /></p>	
+	
 ### Medium Artciles 
 <!-- BLOG-POST-LIST:START -->
 - [Are we alone in this universe?](https://akashpawara.medium.com/are-we-alone-in-this-universe-de64e67f434?source=rss-43799ec6b23------2)
