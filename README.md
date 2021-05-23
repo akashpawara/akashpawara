@@ -40,7 +40,7 @@ const weeb = {
                         Founder: "https://divulge.in",
                         Author: "https://medium.com/@akashpawara"
                       },
- intrests: [Riding, Trecking, Mangas, Anime]
+  intrests: [Riding, Trecking, Mangas, Anime]
 }
 ```
 
