@@ -1,21 +1,36 @@
 <h1 align="center">Heya! 👋, I'm Akash</h1>
-<h3 align="center">A recent Engineering gradtuate | Freelancer</h3>
+
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "An Engineer who deeps down into cosmology. Founder and Author at Divulge - https://divulge.in",
+		"- 🔭 I’m currently working on":      "Divulge, a blog site which makes you question how much are you willing to divulge?",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, GCP (For my personal growth) --- Sharpening my Front End Skills with Gatsby, Prismic.io (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "JavaScript, Python, Gatsby and Hugo related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
+		"- 📫 How to reach me:":              "https://akashpawara.com",
+	}
+}
+```
+
+<h2 align="center">You can reach me at :alien:</h2>
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawara) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashpawara) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_pawara_/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917506021898) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akashpawara) 
-
-<p align="left"> <a href="https://twitter.com/akash_pawara_" target="blank"><img src="https://img.shields.io/twitter/follow/akash_pawara_?logo=twitter&style=for-the-badge" alt="akash_pawara_" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpawara&label=Profile%20views&color=0e75b6&style=flat" alt="akashpawara" /> </p>
-
-- 🔭 I’m currently working on Collaborative web based 2d motion designing tool and an Ed-Tech solution.
-
-- 👨‍💻 Some of my projects are available at [https://akashpawara.com/](https://akashpawara.com/)
-
-- 📝 Sometimes I write articles on [https://medium.com/@akashpawara](https://medium.com/@akashpawara)
-
-- 📫 How to reach me **akashpawara29@gmail.com**
-
-- 📄 Know about my experiences [https://akashpawara.github.io/resume/](https://akashpawara.github.io/resume/)
 
 ### Medium Artciles 
 <!-- BLOG-POST-LIST:START -->
