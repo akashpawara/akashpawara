@@ -1,4 +1,4 @@
-<h1 align="center">< / hello ></h1>
+<h1 align="center">< / hello > <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
 ```golang
 package main
@@ -22,13 +22,29 @@ func GetBio() Bio {
 		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, GCP (For my personal growth) --- Sharpening my Front End Skills with Gatsby, Prismic.io (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "JavaScript, Python, Gatsby and Hugo related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
 		"- 📫 How to reach me:":              "https://akashpawara.com",
 	}
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const weeb = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Go],
+  tools: [React, Node, Gatsby, Bootstrap, Prismic, Hugo],
+  architecture: ["microservices", "event-driven"],
+  sites: {
+                        Personal: "https://akashpawara.com",
+                        Founder: "https://divulge.in",
+                        Author: "https://medium.com/@akashpawara"
+                      },
+ intrests: [Riding, Trecking, Mangas, Anime]
+}
+```
+
+<h2 align="center">You can reach me at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawara) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akashpawara)  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_pawara_/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917506021898) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akashpawara) ![Twitter Follow](https://img.shields.io/twitter/follow/akash_pawara_?logo=twitter&style=for-the-badge)
 
