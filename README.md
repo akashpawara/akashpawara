@@ -65,7 +65,7 @@ const weeb = {
 <!-- [<img src="https://spotify-now-playing-seven-kappa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mk6jkqi2tspn52bvn7hgq7w3i) -->
 <!-- [![Spotify](https://github-readme-spotify-playlist.vercel.app/api/spotify)](https://open.spotify.com/user/mk6jkqi2tspn52bvn7hgq7w3i) -->
 <!-- ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mk6jkqi2tspn52bvn7hgq7w3i) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mk6jkqi2tspn52bvn7hgq7w3i&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mk6jkqi2tspn52bvn7hgq7w3i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mk6jkqi2tspn52bvn7hgq7w3i&redirect=true)
 
 <details>
   <summary> ⚡ Languages </summary>
